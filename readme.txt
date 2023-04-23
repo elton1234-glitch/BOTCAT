@@ -1,0 +1,1 @@
+This program is just for fun.For a better experience run this program with zoomed out terminal.
